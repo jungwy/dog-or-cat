@@ -1,6 +1,10 @@
 # dog-or-cat
 강이지와 고양이를 불류하는 웹
 
+# 실행 홈페이지
+# https://jungwy.github.io/dog-or-cat/
+
+# 실행 코드
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
